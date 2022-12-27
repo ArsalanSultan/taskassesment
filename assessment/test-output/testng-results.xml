@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T15:53:17 PKT" name="Suite" finished-at="2022-12-27T15:55:15 PKT" duration-ms="118030">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T15:53:17 PKT" name="Test" finished-at="2022-12-27T15:55:15 PKT" duration-ms="118030">
+      <class name="creatingAndAccessingWallet.CreateAndAccessWalletKeystore">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletKeystore@5d7148e2]" started-at="2022-12-27T15:54:19 PKT" name="openchrome" finished-at="2022-12-27T15:54:22 PKT" duration-ms="3032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="accessWalletKeystore()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletKeystore@5d7148e2]" started-at="2022-12-27T15:54:22 PKT" name="accessWalletKeystore" finished-at="2022-12-27T15:54:42 PKT" duration-ms="20002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessWalletKeystore -->
+        <test-method signature="createWallet()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletKeystore@5d7148e2]" started-at="2022-12-27T15:54:42 PKT" name="createWallet" finished-at="2022-12-27T15:55:10 PKT" duration-ms="28005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWallet -->
+        <test-method is-config="true" signature="shut()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletKeystore@5d7148e2]" started-at="2022-12-27T15:55:10 PKT" name="shut" finished-at="2022-12-27T15:55:15 PKT" duration-ms="5104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shut -->
+      </class> <!-- creatingAndAccessingWallet.CreateAndAccessWalletKeystore -->
+      <class name="creatingAndAccessingWallet.CreateAndAccessWalletMnemonic">
+        <test-method is-config="true" signature="openchrome()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletMnemonic@66d3eec0]" started-at="2022-12-27T15:53:17 PKT" name="openchrome" finished-at="2022-12-27T15:53:21 PKT" duration-ms="3662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openchrome -->
+        <test-method signature="accessWalletMnemonic()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletMnemonic@66d3eec0]" started-at="2022-12-27T15:53:21 PKT" name="accessWalletMnemonic" finished-at="2022-12-27T15:53:46 PKT" duration-ms="25005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessWalletMnemonic -->
+        <test-method signature="createWallet()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletMnemonic@66d3eec0]" started-at="2022-12-27T15:53:46 PKT" name="createWallet" finished-at="2022-12-27T15:54:14 PKT" duration-ms="28004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWallet -->
+        <test-method is-config="true" signature="shut()[pri:0, instance:creatingAndAccessingWallet.CreateAndAccessWalletMnemonic@66d3eec0]" started-at="2022-12-27T15:54:14 PKT" name="shut" finished-at="2022-12-27T15:54:19 PKT" duration-ms="5118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shut -->
+      </class> <!-- creatingAndAccessingWallet.CreateAndAccessWalletMnemonic -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
